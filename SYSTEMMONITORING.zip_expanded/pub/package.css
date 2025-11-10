@@ -1,0 +1,21 @@
+/*******************************
+ * WmSAP Package Style Sheet
+ *******************************/
+
+
+/*******************************
+ * general settings
+ *******************************/
+.input{
+	width: 90%;
+}
+a.sort:link, a.sort:visited {
+	font-weight: normal;
+	color: #562a00;
+	text-decoration: none;
+}
+a.sort:hover, a.sort:active {
+	font-weight: normal;
+	color: #562a00;
+	text-decoration: underline;
+}
